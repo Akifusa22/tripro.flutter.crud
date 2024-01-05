@@ -1,4 +1,4 @@
-### A flutter project with Firebase Authentication, CRUD
+### A flutter project with Firebase Services, CRUD
 
 ### System requirements
 
